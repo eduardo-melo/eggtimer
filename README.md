@@ -1,5 +1,5 @@
 # eggtimer
-Simple timer application built for iOS 10
+Simple timer application built for iOS 10 (Udemy exercise)
 
 ![alt tag](https://github.com/eduardo-melo/eggtimer/blob/master/img/eggtimer.png)
 
